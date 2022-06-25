@@ -2,16 +2,19 @@
 Hello, my name is Tyler Clayson. I'm currently a student at Utah State University in Logan, UT and am about to begin the last semester of my masters degree 
 in data analytics with an emphasis in MIS. My undergrad was in statistics with a minor mathematics at the same university. 
 
+I created this repo to keep track of previous work I've made in the field of data science. It will be something that I feel can be beneficial to my resume, but also a great place for me to fall back on notes or methods I've used in the past that are written in my own hand (so to speak). 
+
+If any of this is of use to you, I'm glad it could help!
+You can reach out to me at clayson.tyler96@gmail.com and just be sure to title it GitHub repo so I know what the message is about. 
+
 ### Included in the Repo: 
-This github account is something I have created on my own and it will undoubtedly take me a moment to organize. Code contained here is:
-- The capstone project from my masters degree which is the beginning of a crop identification program that uses satellite imagery. 
-- Any completed machine learning models I have created so I can maintain notes for myself to fall back on in the future. 
-If this is of use to you, I'm glad it could help!
+#### CropIdentification
+This is from the capstone project of my masters degree at Utah State University.
 
-You can reach out to me at clayson.tyler96@gmail.com and just be sure to title it GitHub repo so I know what the message is based on. 
+By using line detection in tandom with green detection with the help of two others in my class, we were able to roughly create a python code that could be used to detect crops from satellite images. 
 
-##### CaliforniaHousingModel
-Machine learning practice from Kaggle: \\
+#### CaliforniaHousingModel
+Machine learning practice from Kaggle: 
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 Summary: Predicting housing prices in California based on details about the property using machine learning models. 
@@ -19,7 +22,7 @@ Summary: Predicting housing prices in California based on details about the prop
 Uses the following machine learning models via sklearn library:
 Linear discriminant analysis, K-nearest neighbors classifier, naive bayes gaussian, support vector machine, decision tree, MLP, and perceptron. 
 
-##### breastCancerWisconsin
+#### breastCancerWisconsin
 Machine learning practice from Kaggle: 
 https://www.kaggle.com/code/gargmanish/basic-machine-learning-with-cancer
 
