@@ -11,7 +11,8 @@ If this is of use to you, I'm glad it could help!
 You can reach out to me at clayson.tyler96@gmail.com and just be sure to title it GitHub repo so I know what the message is based on. 
 
 ##### CaliforniaHousingModel
-Machine learning competition from the Kaggle: https://www.kaggle.com/datasets/camnugent/california-housing-prices
+Machine learning competition from the Kaggle: 
+https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 Summary: Predicting housing prices in California based on details about the property using machine learning models. 
 
@@ -19,7 +20,8 @@ Uses the following machine learning models via sklearn library:
 Linear discriminant analysis, K-nearest neighbors classifier, naive bayes gaussian, support vector machine, decision tree, MLP, and perceptron. 
 
 ##### breastCancerWisconsin
-Machine learning practice from Kaggle: https://www.kaggle.com/code/gargmanish/basic-machine-learning-with-cancer
+Machine learning practice from Kaggle: 
+https://www.kaggle.com/code/gargmanish/basic-machine-learning-with-cancer
 
 Summary: Predicting the diagnosis (malignant or benign) of a cell mass based on characteristics of the mass found in 3-d imaging. 
 
