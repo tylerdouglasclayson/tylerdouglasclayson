@@ -11,7 +11,7 @@ If this is of use to you, I'm glad it could help!
 You can reach out to me at clayson.tyler96@gmail.com and just be sure to title it GitHub repo so I know what the message is based on. 
 
 ##### CaliforniaHousingModel
-Machine learning competition from the Kaggle: 
+Machine learning practice from Kaggle: \\
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 Summary: Predicting housing prices in California based on details about the property using machine learning models. 
