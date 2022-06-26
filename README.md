@@ -9,11 +9,15 @@ You can reach out to me at clayson.tyler96@gmail.com and just be sure to title i
 
 ### Included in the Repo: 
 #### CropIdentification
+Written in python code
+
 This is from the capstone project of my masters degree at Utah State University.
 
 By using line detection in tandom with green detection with the help of two others in my class, we were able to roughly create a python code that could be used to detect crops from satellite images. 
 
 #### CaliforniaHousingModel
+Written in python code
+
 Machine learning practice from Kaggle: 
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
@@ -23,6 +27,8 @@ Uses the following machine learning models via sklearn library:
 Linear discriminant analysis, K-nearest neighbors classifier, naive bayes gaussian, support vector machine, decision tree, MLP, and perceptron. 
 
 #### breastCancerWisconsin
+Written in python code
+
 Machine learning practice from Kaggle: 
 https://www.kaggle.com/code/gargmanish/basic-machine-learning-with-cancer
 
@@ -30,3 +36,13 @@ Summary: Predicting the diagnosis (malignant or benign) of a cell mass based on 
 
 Uses standardscaler for faster learning and the following ML models via sklearn:
 Logistic regression, support vector machine, K-nearest neighbors, naive bayes gaussian, perceptron, linear support vector machine, decision tree, random forest
+
+#### bankruptcyPrediction
+Written in python notebook
+
+Machine learning practice from Kaggle:
+https://www.kaggle.com/code/eliqulu/company-bankruptcy-prediction
+
+Summary: This dataset uses values taken from a Taiwan economic journal, and uses information to predict the likelihood of a company going bankrupt. 
+
+Uses robust scaling, and demonstrates how to make predictions if you wanted to test and see if a company outside of the dataset was likely to go bankrupt. 
