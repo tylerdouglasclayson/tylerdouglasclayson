@@ -46,3 +46,6 @@ https://www.kaggle.com/code/eliqulu/company-bankruptcy-prediction
 Summary: This dataset uses values taken from a Taiwan economic journal, and uses information to predict the likelihood of a company going bankrupt. 
 
 Uses robust scaling, and demonstrates how to make predictions if you wanted to test and see if a company outside of the dataset was likely to go bankrupt. 
+
+#### StatsNotes
+This file is purely for me to use as a reference about ML and statistical learning models that can refresh my memory as succinctly as possible. It is written with my own interpretation, and should not be substituted for professional works. 
